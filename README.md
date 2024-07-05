@@ -1,4 +1,4 @@
-# pathology-Features-and-differenciation-
+# Pathology-Features-and-differenciation-
 
 
 # To Run the Notebook:
